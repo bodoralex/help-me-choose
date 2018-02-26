@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS help_me_choose;
-CREATE SCHEMA IF NOT EXISTS help_me_choose;
-USE help_me_choose;
+# DROP DATABASE IF EXISTS help_me_choose;
+# CREATE SCHEMA IF NOT EXISTS help_me_choose;
+# USE help_me_choose;
 
 # DROP TABLE IF EXISTS user;
 #
